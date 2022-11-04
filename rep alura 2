@@ -1,4 +1,15 @@
 p {
-	text-aling: center
 	background: #CCCCCC
+}
+
+h1 {
+	style="text-aling: center"
+}
+
+p {
+	text-aling: center;
+}
+
+em strong {
+	color: #FF0000;
 }
